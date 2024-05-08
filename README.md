@@ -21,7 +21,4 @@ Skills: Vulnerability Assessment/Window Server/Active Directory/Nessus/Web Appli
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/AudityMemoryRoy)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/AudityMemoryRoy&show_icons=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/AudityMemoryRoy/contributions?format=svg&private=false)  
 
