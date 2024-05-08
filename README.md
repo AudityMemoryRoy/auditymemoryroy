@@ -9,8 +9,7 @@ During my career, I've had the privilege of working on a diverse range of projec
 
 Skills: Vulnerability Assessment/Window Server/Active Directory/Nessus/Web Application/Security Testing
 
-- 🔭 I’m currently working on Fiverr 
-- 💬 Ask me about Cyber security 
+ - 💬 Ask me about Cyber security 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/AudityMemoryRoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/audity-memory-roy//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/audity_roy_?igsh=MXVwZXZ3OTlneWhjbw==/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/AudityMemory)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://royaudity544.wixsite.com/audity-roy)  
